@@ -1,0 +1,6 @@
+import cn.hutool.http.ssl.CustomProtocolsSSLFactory;
+public class FunctionUse6465 {
+public void funcUse() {
+CustomProtocolsSSLFactory customprotocolssslfactory = new CustomProtocolsSSLFactory();
+}
+}
